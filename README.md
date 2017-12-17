@@ -14,3 +14,4 @@ Reference:
 http://wiki.fablab-nuernberg.de/w/Ding:Plotclock  
 https://github.com/KanjiVG/kanjivg  
 https://github.com/Make-Magazine/DrawBot/tree/master/svg  
+http://www.thingiverse.com/thing:248009/#instructions  
