@@ -1,8 +1,9 @@
 # DrawBot
 
-Use SVG Write Traditional Chinese Character.
-Processing + Arduino Drawbot.
-Data Base use: https://github.com/KanjiVG/kanjivg
+Use SVG Write Traditional Chinese Character.  
+Processing + Arduino Drawbot.  
+Thanks for KanjiVG.  
+Character Data Base use: https://github.com/KanjiVG/kanjivg  
   
 <img src="https://github.com/shinn716/DrawBot/blob/master/ezgif.com-video-to-gif.gif" /></a>
   
