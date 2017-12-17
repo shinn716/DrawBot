@@ -2,6 +2,9 @@
 
 Use SVG Write Traditional Chinese Character.  
 Processing + Arduino Drawbot.  
+
+If you want to use "KanjiVG" data, you must put copy KanjiVG into processing files data/kanji.
+
 Thanks for KanjiVG.  
 Character Data Base use: https://github.com/KanjiVG/kanjivg  
   
